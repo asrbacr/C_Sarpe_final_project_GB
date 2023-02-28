@@ -86,3 +86,6 @@
 Тут тоже есть способ добавить изображение.
 
 Надо добавить файл в игнор, чтобы Git не ругался))
+
+
+# [Ссылка на блок-схему](https://drive.google.com/file/d/1AsDB6lnkvjD4CyEcEXQK0hVFi-l1gj2O/view?usp=sharing) 
