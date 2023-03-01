@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\GitClone\\DZ_Finish_Block_Choice_specialization\\DZ_Finish_Block_Choice_specialization.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\DZ\\DZ_Finish_Block_Choice_specialization\\DZ_Finish_Block_Choice_specialization.csproj",
       "projectName": "DZ_Finish_Block_Choice_specialization",
-      "projectPath": "C:\\Users\\User\\GitClone\\DZ_Finish_Block_Choice_specialization\\DZ_Finish_Block_Choice_specialization.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\DZ\\DZ_Finish_Block_Choice_specialization\\DZ_Finish_Block_Choice_specialization.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\GitClone\\DZ_Finish_Block_Choice_specialization\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\DZ\\DZ_Finish_Block_Choice_specialization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
